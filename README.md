@@ -26,7 +26,6 @@ List any prerequisites here, such as required software, libraries, or accounts. 
 ### Installation
 
 1. Clone the project 
-  ```bash
-   git clone <repository-url>```
+```git clone <repository-url>```
 
 2. Launch python script hello.py
